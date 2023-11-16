@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Jasmin';
+    src: url(/fonts/Agbalumo-Regular.ttf);
+}
+p{
+    font-family: Jasmin;
+    font: size 20px; 
+}
+p{
+    background-color:bisque;
+    color: brown;
+}
+body{
+    background-image: url(/img/pexels-jess-bailey-designs-850359.jpg);
+    background-size: 300px ;
+    background-repeat: no-repeat;
+    background-position: center 30px ;
+    margin: auto;
+}
